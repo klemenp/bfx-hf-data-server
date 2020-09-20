@@ -16,7 +16,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitfinexcom/bfx-hf-data-server.git"
+    "url": "https://github.com/klemenp/bfx-hf-data-server.git"
   },
   "bugs": {
     "url": "https://github.com/bitfinexcom/bfx-hf-data-server/issues"
